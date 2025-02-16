@@ -179,3 +179,7 @@ python3 -m unittest session14_test.py
 
 This ensures the correctness and efficiency of the implemented functions.
 
+
+## Result of running session14_test.py using Actions 
+
+<img width="1279" alt="Screenshot 2025-02-17 at 00 06 59" src="https://github.com/user-attachments/assets/70e0eff6-145a-49d3-9a42-ac6ea03b95b7" />
